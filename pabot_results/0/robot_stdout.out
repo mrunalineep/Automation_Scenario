@@ -1,0 +1,20 @@
+==============================================================================
+Search Testcases                                                              
+==============================================================================
+TC_01 Verify Domestic Hotel Search Results                              
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\TestCases\Hotel\search_testcases.robot:14
+    T:  TC_01 Verify Domestic Hotel Search Results    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\TestCases\Hotel\search_testcases.robot:6
+      Open Air Application    
+______________________________________________________________________________
+| FAIL |
+Setup failed:
+No keyword with name 'Open Air Application' found.
+------------------------------------------------------------------------------
+Search Testcases                                                      | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\pabot_results\0\output.xml

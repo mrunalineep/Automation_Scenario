@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.5 on win32)" generated="20241221 08:10:25.336" rpa="false" schemaversion="4">
+<suite id="s1" name="Search Testcases" source="C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\TestCases\Hotel\search_testcases.robot">
+<test id="s1-t1" name="TC_01 Verify Domestic Hotel Search Results" line="14">
+<kw name="Open Air Application" type="SETUP">
+<msg timestamp="20241221 08:10:25.700" level="FAIL">No keyword with name 'Open Air Application' found.</msg>
+<status status="FAIL" starttime="20241221 08:10:25.700" endtime="20241221 08:10:25.700"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20241221 08:10:25.700" endtime="20241221 08:10:25.700"/>
+</kw>
+<status status="FAIL" starttime="20241221 08:10:25.700" endtime="20241221 08:10:25.700">Setup failed:
+No keyword with name 'Open Air Application' found.</status>
+</test>
+<status status="FAIL" starttime="20241221 08:10:25.352" endtime="20241221 08:10:25.700"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Search Testcases">Search Testcases</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20241221 08:10:25.700" level="ERROR">Error in file 'C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\TestCases\Hotel\search_testcases.robot' on line 3: Resource file 'Resources\Hotel\search_keyword.robot' does not exist.</msg>
+<msg timestamp="20241221 08:10:25.700" level="ERROR">Error in file 'C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\TestCases\Hotel\search_testcases.robot' on line 4: Library 'Resources\CustomKeyword\FetchTestData.py' does not exist.</msg>
+</errors>
+</robot>

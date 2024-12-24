@@ -1,0 +1,20 @@
+==============================================================================
+Search Testcases                                                              
+==============================================================================
+TC_02 Verify Hotel Search Results Are Displayed According To The P...   
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\TestCases\Hotel\search_testcases.robot:23
+    T:  TC_02 Verify Hotel Search Results Are Displayed According To The Price Filter    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\TestCases\Hotel\search_testcases.robot:6
+      Open Air Application    
+______________________________________________________________________________
+| FAIL |
+Setup failed:
+No keyword with name 'Open Air Application' found.
+------------------------------------------------------------------------------
+Search Testcases                                                      | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\pabot_results\1\output.xml

@@ -1,0 +1,2 @@
+[ ERROR ] Error in file 'C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\TestCases\Hotel\search_testcases.robot' on line 3: Resource file 'Resources\Hotel\search_keyword.robot' does not exist.
+[ ERROR ] Error in file 'C:\Users\Mrunalinee\PycharmProjects\TripJack_Scenarios\TestCases\Hotel\search_testcases.robot' on line 4: Library 'Resources\CustomKeyword\FetchTestData.py' does not exist.

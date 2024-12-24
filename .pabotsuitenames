@@ -1,0 +1,6 @@
+datasources:e22ddd5c0d98211ebc3e0d4511117be93209f1be
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:dc877cbe37dc44fd0e5c691d936def6891ed6644
+--test Search Testcases.TC_01 Verify Domestic Hotel Search Results
+--test Search Testcases.TC_02 Verify Hotel Search Results Are Displayed According To The Price Filter
